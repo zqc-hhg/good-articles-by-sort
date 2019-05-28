@@ -20,7 +20,7 @@
 *   [考虑清理.git文件夹以减少大型仓库大小](https://github.com/18F/C2/issues/439)
 *   [泪流满面的 11 个 Git 面试题](https://mp.weixin.qq.com/s/ghF27N0XjgG0pw2XpGDCYA)
 *   [windows下GitHub的SSH key配置](https://allanhao.com/2019/03/08/github-ssh/)
-*   []()
+*   [**git - how to delete all commit history in github? - Stack Overflow**](https://stackoverflow.com/questions/13716658/how-to-delete-all-commit-history-in-github)
 *   []()
 *   []()
 *   []()
