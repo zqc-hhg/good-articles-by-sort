@@ -81,7 +81,7 @@
 *   [为初学者介绍的 Linux tee 命令（6 个例子）](https://linux.cn/article-9435-1.html)
 *   [浅析 Bash 中的 {花括号} | Linux 中国](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664613691&idx=1&sn=fe69e21ce69c2702000a8cd5d9951aaa&chksm=bdcefc7d8ab9756b693a1416123b050a3351063f15c71060d4e9319be2001df8048764b403bf&mpshare=1&scene=23&srcid=#rd)
 *   [Xterm-中文乱码问题 - 简书](https://www.jianshu.com/p/dfb3d784e248)
-*   []()
+*   [The systemd journalctl Process Hogs A lot of Memory - Bootloader Blog](https://blog.kylemanna.com/linux/systemd-journalctl-memory-hog/)
 *   []()
 *   []()
 *   []()
