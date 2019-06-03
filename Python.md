@@ -69,7 +69,7 @@
 *   [Python Hashes and Equality · Homepage of Hynek Schlawack](https://hynek.me/articles/hashes-and-equality/)
 *   [How does functools partial do what it does?](https://stackoverflow.com/questions/15331726/how-does-functools-partial-do-what-it-does)
 *   [一日一技：在Python中为别人的函数设定默认参数](https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648977247&idx=1&sn=36c9dd5e44518694000091d99ccacce2&chksm=f25072bfc527fba97ef21faf3b0f3fbbab6833b41c63f22e7ce1e76855d59972acdf2b30e34e&mpshare=1&scene=23&srcid=#rd)
-*   []()
+*   [python - How to open every file in a folder? - Stack Overflow](https://stackoverflow.com/questions/18262293/how-to-open-every-file-in-a-folder)
 *   []()
 *   []()
 *   []()
