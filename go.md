@@ -2,8 +2,8 @@
 
 
 *   [在Visual Studio Code中配置GO开发环境](https://blog.csdn.net/langzi7758521/article/details/51313521)
-*   []()
-*   []()
+*   [Golang简介 | 无语书斋](http://lesliezhu.com/2018/07/16/Golang(1)%E2%80%94%E2%80%94%E7%AE%80%E4%BB%8B/)
+*   [测试Golang程序 | 无语书斋](http://lesliezhu.com/2018/07/15/%E6%B5%8B%E8%AF%95Golang%E7%A8%8B%E5%BA%8F/)
 *   []()
 *   []()
 *   []()
