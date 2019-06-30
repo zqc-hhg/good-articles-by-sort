@@ -1,8 +1,8 @@
 # NodeJs
 
 *   [深入浅出NodeJs一NodeJs初识](http://www.cnblogs.com/flaming/p/9157213.html)
-*   []()
-*   []()
+*   [**学习 Node.js，第 1 单元：Node.js 学习路径概述**](https://www.ibm.com/developerworks/cn/opensource/os-learn-node-unit-1-overview-nodejs-learning-path/)
+*   [学习 Node.js，第 2 单元：安装 Node.js、npm 和 VSCode](https://www.ibm.com/developerworks/cn/opensource/os-tutorials-learn-nodejs-installing-node-nvm-and-vscode/)
 *   []()
 *   []()
 *   []()
