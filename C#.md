@@ -19,7 +19,7 @@
 *   [ASP.NET Core 2.0 : 四. _Layout与_ViewStart - FlyLolo - 博客园](https://www.cnblogs.com/FlyLolo/p/ASPNETCore2_4.html)
 *   [ASP.NET Core 2.0 : 五.服务是如何加载并运行的, Kestrel、配置与环境 - FlyLolo - 博客园](https://www.cnblogs.com/FlyLolo/p/ASPNETCore2_5.html)
 *   [Getting started with ASP.NET Core and MySQL Connector/NET | InsideMySQL.com](https://insidemysql.com/getting-started-with-asp-net-core-and-mysql-connectornet/)
-*   []()
+*   [Entity Framework Core 2.0 使用入门 - 晓晨Master - 博客园](https://www.cnblogs.com/stulzq/p/7717873.html)
 *   []()
 *   []()
 *   []()
