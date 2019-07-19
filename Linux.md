@@ -85,7 +85,7 @@
 *   [Linux Sticky Bit Concept Explained with Examples](https://www.thegeekstuff.com/2013/02/sticky-bit/?utm_source=feedburner)
 *   [linux - Copy entire file system hierarchy from one drive to another - Super User](https://superuser.com/questions/307541/copy-entire-file-system-hierarchy-from-one-drive-to-another)
 *   [hard disk - Full DD copy from hdd to hdd - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/144172/full-dd-copy-from-hdd-to-hdd)
-*   []()
+*   [performance - How are cache memories shared in multicore Intel CPUs? - Stack Overflow](https://stackoverflow.com/questions/944966/how-are-cache-memories-shared-in-multicore-intel-cpus)
 *   []()
 *   []()
 *   []()
