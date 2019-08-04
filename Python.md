@@ -74,7 +74,7 @@
 *   [每周分享五个 PyCharm 使用技巧（二）](https://zhuanlan.zhihu.com/p/60987477)
 *   [每周分享五个 PyCharm 使用技巧（三）](https://zhuanlan.zhihu.com/p/65041144)
 *   [每周分享五个 PyCharm 使用技巧（四）](https://zhuanlan.zhihu.com/p/69531467)
-*   []()
+*   [Python 之父新发文，将替换现有解析器](https://mp.weixin.qq.com/s?__biz=MzUyOTk2MTcwNg==&mid=2247484442&idx=1&sn=19b78b6906d62012a0422d6e9504549a&utm_source=tuicool&utm_medium=referral)
 *   []()
 *   []()
 *   []()

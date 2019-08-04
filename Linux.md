@@ -86,7 +86,7 @@
 *   [linux - Copy entire file system hierarchy from one drive to another - Super User](https://superuser.com/questions/307541/copy-entire-file-system-hierarchy-from-one-drive-to-another)
 *   [hard disk - Full DD copy from hdd to hdd - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/144172/full-dd-copy-from-hdd-to-hdd)
 *   [performance - How are cache memories shared in multicore Intel CPUs? - Stack Overflow](https://stackoverflow.com/questions/944966/how-are-cache-memories-shared-in-multicore-intel-cpus)
-*   []()
+*   [阿里云通过网络安装全新 Debian 9 Stretch - 烧饼博客](https://sb.sb/blog/install-debian-alibabacloud/)
 *   []()
 *   []()
 *   []()
