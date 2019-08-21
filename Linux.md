@@ -90,7 +90,7 @@
 *   [在Linux下做性能分析3：perf - 知乎](https://zhuanlan.zhihu.com/p/22194920)
 *   [Perf -- Linux下的系统性能调优工具，第 1 部分](https://www.ibm.com/developerworks/cn/linux/l-cn-perf1/index.html)
 *   [**c++ - Difference between static and shared libraries? - Stack Overflow**](https://stackoverflow.com/questions/2649334/difference-between-static-and-shared-libraries)
-*   []()
+*   [Get a list of Open Ports in Linux - Super User](https://superuser.com/questions/529830/get-a-list-of-open-ports-in-linux)
 *   []()
 *   []()
 *   []()
