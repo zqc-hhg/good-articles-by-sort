@@ -55,7 +55,7 @@
 *   [function - Using :: in C++ - Stack Overflow](https://stackoverflow.com/questions/15649580/using-in-c)
 *   [Makefile相关 - 小草喔](https://chsmy.github.io/2019/05/19/technology/Makefile%E7%9B%B8%E5%85%B3/)
 *   [C++基础知识 - 小草喔](https://chsmy.github.io/2019/05/19/technology/C-%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/)
-*   []()
+*   [C++ lambda表达式与函数对象 - 简书](https://www.jianshu.com/p/d686ad9de817)
 *   []()
 *   []()
 *   []()
