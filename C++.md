@@ -64,7 +64,7 @@
 *   [How do you get assembler output from C/C++ source in gcc? - Stack Overflow](https://stackoverflow.com/questions/137038/how-do-you-get-assembler-output-from-c-c-source-in-gcc)
 *   [How can I see the assembly code for a C++ program? - Stack Overflow](https://stackoverflow.com/questions/840321/how-can-i-see-the-assembly-code-for-a-c-program)
 *   [COROUTINES INTRODUCTION](https://blog.panicsoftware.com/coroutines-introduction/)
-*   []()
+*   [c - What are the exact steps for creating and then linking against a Win32 DLL on the command line? - Stack Overflow](https://stackoverflow.com/questions/9036859/what-are-the-exact-steps-for-creating-and-then-linking-against-a-win32-dll-on-th)
 *   []()
 *   []()
 *   []()
