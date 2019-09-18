@@ -72,7 +72,7 @@
 *   [Sorting a vector in C++ - GeeksforGeeks](https://www.geeksforgeeks.org/sorting-a-vector-in-c/)
 *   [c - Constant pointer vs Pointer to constant - Stack Overflow](https://stackoverflow.com/questions/21476869/constant-pointer-vs-pointer-to-constant)
 *   [gcc - How does #include <bits/stdc++.h> work in C++? - Stack Overflow](https://stackoverflow.com/questions/25311011/how-does-include-bits-stdc-h-work-in-c)
-*   []()
+*   [**sorting - How to use std::sort to sort an array in C++ - Stack Overflow**](https://stackoverflow.com/questions/5897319/how-to-use-stdsort-to-sort-an-array-in-c)
 *   []()
 *   []()
 *   []()
