@@ -76,7 +76,7 @@
 *   [每周分享五个 PyCharm 使用技巧（四）](https://zhuanlan.zhihu.com/p/69531467)
 *   [Python 之父新发文，将替换现有解析器](https://mp.weixin.qq.com/s?__biz=MzUyOTk2MTcwNg==&mid=2247484442&idx=1&sn=19b78b6906d62012a0422d6e9504549a&utm_source=tuicool&utm_medium=referral)
 *   [Python: Using a dictionary to count the items in a list - Stack Overflow](https://stackoverflow.com/questions/3496518/python-using-a-dictionary-to-count-the-items-in-a-list)
-*   []()
+*   [taizilongxu/stackoverflow_python: stackoverflow上关于python的翻译](https://github.com/taizilongxu/stackoverflow_python)
 *   []()
 *   []()
 *   []()
