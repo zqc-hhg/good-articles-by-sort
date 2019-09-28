@@ -80,7 +80,7 @@
 *   [c++ - When to use virtual destructors? - Stack Overflow](https://stackoverflow.com/questions/461203/when-to-use-virtual-destructors)
 *   [c++ - When should static_cast, dynamic_cast, const_cast and reinterpret_cast be used? - Stack Overflow](https://stackoverflow.com/questions/332030/when-should-static-cast-dynamic-cast-const-cast-and-reinterpret-cast-be-used)
 *   [What is the lifetime of a static variable in a C++ function? - Stack Overflow](https://stackoverflow.com/questions/246564/what-is-the-lifetime-of-a-static-variable-in-a-c-function)
-*   []()
+*   [c++ - Is multiplication and division using shift operators in C actually faster? - Stack Overflow](https://stackoverflow.com/questions/6357038/is-multiplication-and-division-using-shift-operators-in-c-actually-faster)
 *   []()
 *   []()
 *   []()
