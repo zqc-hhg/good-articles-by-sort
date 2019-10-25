@@ -91,7 +91,7 @@
 *   [关于C++对象的自杀 - JasonLee的专栏 - CSDN博客](https://blog.csdn.net/jasonblog/article/details/5989224)
 *   [c++ - Is delete this allowed? - Stack Overflow](https://stackoverflow.com/questions/3150942/is-delete-this-allowed)
 *   [**Typedef Literacy – Michael Park**](https://mpark.github.io/programming/2016/05/12/typedef-literacy/)
-*   []()
+*   [Copy constructor vs assignment operator in C++ - GeeksforGeeks](https://www.geeksforgeeks.org/copy-constructor-vs-assignment-operator-in-c/)
 *   []()
 *   []()
 *   []()
