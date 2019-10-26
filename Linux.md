@@ -93,7 +93,7 @@
 *   [Get a list of Open Ports in Linux - Super User](https://superuser.com/questions/529830/get-a-list-of-open-ports-in-linux)
 *   [**看问题要看到本质：从Web服务器说起**](https://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&mid=2665516391&idx=1&sn=6ec003ccf47fb7366ba2d3539f98348e&chksm=80d67524b7a1fc324b8f721589f8793818df8be87e386e00ca071854ddd93946e033b41db68e&mpshare=1&scene=23&srcid=#rd)
 *   [Linux -- 系统调用过程](http://zhongmingmao.me/2019/04/20/linux-system-call-process/)
-*   []()
+*   [Linux下的解压命令小结 - cursorhu - 博客园](https://www.cnblogs.com/cursorhu/p/5891699.html)
 *   []()
 *   []()
 *   []()
