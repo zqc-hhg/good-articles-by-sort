@@ -141,7 +141,7 @@
 *   [maven入门总结 | pjmike的博客](https://pjmike.github.io/2019/06/02/maven%E5%85%A5%E9%97%A8%E6%80%BB%E7%BB%93/)
 *   []()
 *   [RPC框架是啥之Java自带RPC实现，RMI框架入门 - 猫叔的博客 | MySelf](https://unclecatmyself.github.io/2019/04/21/rpcaboutrmi/)
-*   []()
+*   [JDK 源码中 HashMap 的 hash 方法原理是什么？ - 知乎](https://www.zhihu.com/question/20733617)
 *   []()
 *   []()
 *   []()
