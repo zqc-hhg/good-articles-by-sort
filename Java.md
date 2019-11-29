@@ -152,7 +152,7 @@
 *   [**HashMap和HashTable到底哪不同？**](http://zhaox.github.io/2016/07/05/hashmap-vs-hashtable)
 *   [algorithm - Why does Java use (hash & 0x7FFFFFFF) % tab.length to decide the index of a key? - Stack Overflow](https://stackoverflow.com/questions/9380670/why-does-java-use-hash-0x7fffffff-tab-length-to-decide-the-index-of-a-key)
 *   [**带你深入浅出的分析 HashTable 源码**](https://mp.weixin.qq.com/s?__biz=MzU3NzczMTAzMg==&mid=2247485988&idx=1&sn=c5c540346a0229ae87d2457661468297&chksm=fd016a93ca76e385feddb1310f034c9dc1929f96397893ad3c717d6f1ce508be214332957c10&mpshare=1&scene=23&srcid=&sharer_sharetime=1573183442911&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)
-*   []()
+*   [java - maven error: element dependency can not have character children - Stack Overflow](https://stackoverflow.com/questions/26508166/maven-error-element-dependency-can-not-have-character-children)
 *   []()
 *   []()
 *   []()
