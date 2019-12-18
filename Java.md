@@ -161,7 +161,7 @@
 *   [**Java String intern function result problem - Stack Overflow**](https://stackoverflow.com/questions/59333471/java-string-intern-function-result-problem)
 *   [深入理解String.intern - 后端 - 掘金](https://juejin.im/entry/5981c8c76fb9a03c3d02367d)
 *   [深入解析String#intern - 美团技术博客](https://tech.meituan.com/2014/03/06/in-depth-understanding-string-intern.html)
-*   []()
+*   [java - What's the difference between ConcurrentHashMap and Collections.synchronizedMap(Map)? - Stack Overflow](https://stackoverflow.com/questions/510632/whats-the-difference-between-concurrenthashmap-and-collections-synchronizedmap)
 *   []()
 *   []()
 *   []()
