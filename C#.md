@@ -25,7 +25,7 @@
 *   [ASP.NET Core 认证与授权[1]:初识认证](https://www.cnblogs.com/RainingNight/p/introduce-basic-authentication-in-asp-net-core.html)
 *   [ASP.NET Core 身份验证（一）](https://www.cnblogs.com/savorboard/p/authentication.html)
 *   [ASP.NET Core 中文文档 第四章 MVC（3.4）如何使用表单 - .NET_CORE_COMMUNITY - 博客园](https://www.cnblogs.com/dotNETCoreSG/p/aspnetcore-4_3_4-working-with-forms.html)
-*   []()
+*   [**.NET Tutorial | Hello World in 10 minutes**](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/intro)
 *   []()
 *   []()
 *   []()
