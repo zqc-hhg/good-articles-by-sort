@@ -32,7 +32,7 @@
 *   [git add - Difference between "git add -A" and "git add ." - Stack Overflow](https://stackoverflow.com/questions/572549/difference-between-git-add-a-and-git-add)
 *   [version control - How do I force "git pull" to overwrite local files? - Stack Overflow](https://stackoverflow.com/questions/1125968/how-do-i-force-git-pull-to-overwrite-local-files)
 *   [What is the difference between 'git pull' and 'git fetch'? - Stack Overflow](https://stackoverflow.com/questions/292357/what-is-the-difference-between-git-pull-and-git-fetch)
-*   []()
+*   [**Linus 在 Google 分享了 Git 的设计思路，顺带怼了一大波人（视频）**](https://mp.weixin.qq.com/s/xHwolprdgjQnO5QEPuqrvA)
 *   []()
 *   []()
 *   []()
