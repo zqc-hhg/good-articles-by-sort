@@ -29,6 +29,12 @@
 *   []()
 *   []()
 *   []()
+
+# Kubernetes
+*   [A DigitalOcean Workshop: Get Started with Containers and Kubernetes - YouTube](https://www.youtube.com/watch?v=7WOgYfZgSf0&feature=youtu.be)   
+*   [Getting Started with Containers and Kubernetes: A DigitalOcean Workshop Kit  DigitalOcean](https://www.digitalocean.com/community/meetup_kits/getting-started-with-containers-and-kubernetes-a-digitalocean-workshop-kit)
+*   [两小时Kubernetes(K8S)从懵圈到熟练——大型分布式集群环境捷径部署搭建_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av57580105)                 
+*   [1 天入门 Kubernetes/K8S_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av49783277)         
 *   []()
 *   []()
 *   []()
