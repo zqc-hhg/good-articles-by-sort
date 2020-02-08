@@ -34,7 +34,7 @@
 *   [What is the difference between 'git pull' and 'git fetch'? - Stack Overflow](https://stackoverflow.com/questions/292357/what-is-the-difference-between-git-pull-and-git-fetch)
 *   [**Linus 在 Google 分享了 Git 的设计思路，顺带怼了一大波人（视频）**](https://mp.weixin.qq.com/s/xHwolprdgjQnO5QEPuqrvA)
 *   [**【中文字幕】Linus 在 2007 年 Google Talk 上介绍 Git_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili**](https://www.bilibili.com/video/av34867224/?p=1)
-*   []()
+*   [GitHub Developer | GitHub Developer Guide](https://developer.github.com/)
 *   []()
 *   []()
 *   []()
