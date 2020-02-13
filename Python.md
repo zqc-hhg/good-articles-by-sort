@@ -78,7 +78,7 @@
 *   [Python: Using a dictionary to count the items in a list - Stack Overflow](https://stackoverflow.com/questions/3496518/python-using-a-dictionary-to-count-the-items-in-a-list)
 *   [taizilongxu/stackoverflow_python: stackoverflow上关于python的翻译](https://github.com/taizilongxu/stackoverflow_python)
 *   [Python垃圾回收（GC）三层心法,你了解到第几层？ - 掘金](https://juejin.im/post/5b34b117f265da59a50b2fbe) 
-*   []()
+*   [一日一技：如何使用弱引用优化 Python 程序的内存占用？](https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648978220&idx=1&sn=32e70e5a6550900174d46e5d74005fa2&chksm=f2506eccc527e7da810c41669a222afeb18f8045dd8e1c0afba313139df865211f6ebcfbc43d&mpshare=1&scene=23&srcid=0213cXvVIf6H2YQ6xMj72V3O&sharer_sharetime=1581568070562&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)
 *   []()
 *   []()
 *   []()
