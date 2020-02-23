@@ -1,14 +1,14 @@
 # 本仓库用来存放我看过的认为比较好的文章--根据分类排序
 若想看根据时间排序 [good-articles-by-time](https://github.com/zhang0peter/good-articles-by-time)
 
+[//]: # (This may be the most platform independent comment)
+
+[comment]: <> (a reference style link.)
+
+<!--- 
+##  [go](go.md) 
 
 
-##  [C#](C#.md)
-
-
-##  [C++](C++)
-
-##  [go](go.md)
 
 ##  [SDN](SDN.md)
 
@@ -127,4 +127,4 @@
 ##  [计算机底层和操作系统](计算机底层.md) 
 
 
-
+--->
