@@ -98,7 +98,7 @@
 *   [软件开发|GNU binutils 里的九种武器](https://linux.cn/article-11441-1.html)
 *   [netdata/packaging/installer at master · netdata/netdata](https://github.com/netdata/netdata)
 *   [打造属于自己的渗透神器](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247486595&idx=1&sn=913711d21b268bd76b38bb0e13c75b4e&chksm=ec1e3cabdb69b5bdeabb7573b2984d72c0b0b28507b53e283d89d753ad741400aca9aa1f929a&mpshare=1&scene=23&srcid=0212Pdkt50y0U60s9FewjPhE#rd)
-*   []()
+*   [树莓派新手入门教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2017/06/raspberry-pi-tutorial.html)
 *   []()
 *   []()
 *   []()
