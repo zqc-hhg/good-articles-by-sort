@@ -35,7 +35,7 @@
 *   [**Linus 在 Google 分享了 Git 的设计思路，顺带怼了一大波人（视频）**](https://mp.weixin.qq.com/s/xHwolprdgjQnO5QEPuqrvA)
 *   [**【中文字幕】Linus 在 2007 年 Google Talk 上介绍 Git_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili**](https://www.bilibili.com/video/av34867224/?p=1)
 *   [GitHub Developer | GitHub Developer Guide](https://developer.github.com/)
-*   []()
+*   [一文带你彻底学会 Git Hooks 配置](https://mp.weixin.qq.com/s?__biz=MzI5MjgxMDU0MA==&mid=2247483793&idx=1&sn=e49d385cc87cdaa3b3253fab9ae22f8a&chksm=ec7afbd2db0d72c49a4451f7ea3eb9ba958d960a6880bc9c55efb11a4cd85d9186bccfa7e8e4&token=1214989132&lang=zh_CN&utm_source=tuicool&utm_medium=referral)
 *   []()
 *   []()
 *   []()
