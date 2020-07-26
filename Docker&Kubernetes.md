@@ -23,6 +23,8 @@
 *   [两小时入门 Docker](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666543666&idx=1&sn=aa2959d857cf31904c2712309a843e41&chksm=80dcfe99b7ab778f6de258c444719fc1b2874f3ba7110a3f0373f0ce69702906192fea863777&mpshare=1&scene=23&srcid=0130ivx7CTyoLs7JD5TTRJx7#rd)
 *   [如何给Docker镜像瘦身？](https://www.infoq.cn/article/tbiWIEU87E*wKuNVJDWm)
 *   [How to Setup Hadoop on Ubuntu 18.04 & 16.04 LTS – TecAdmin](https://tecadmin.net/setup-hadoop-on-ubuntu/)
+*    [漫谈容器网络 - 知乎](https://zhuanlan.zhihu.com/p/143808293)             
+*    [图文：你女朋友也能看懂的 Kubernetes ！](https://mp.weixin.qq.com/s?__biz=MzIzMTE1ODkyNQ==&mid=2649412589&idx=1&sn=f681ef54c5c23556785a85bd25137746&chksm=f0b6160fc7c19f19aa6e4a9292083dd2b0023ac7348b8b1a7be1027b71b15ebb0ce8dd0a6986&mpshare=1&scene=23&srcid=0119k8iDL8yeFhWTOa8yZULj&sharer_sharetime=1579425928984&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)     
 *   []()
 *   []()
 *   []()
