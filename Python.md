@@ -81,6 +81,8 @@
 *   [一日一技：如何使用弱引用优化 Python 程序的内存占用？](https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648978220&idx=1&sn=32e70e5a6550900174d46e5d74005fa2&chksm=f2506eccc527e7da810c41669a222afeb18f8045dd8e1c0afba313139df865211f6ebcfbc43d&mpshare=1&scene=23&srcid=0213cXvVIf6H2YQ6xMj72V3O&sharer_sharetime=1581568070562&sharer_shareid=19fe229c09c2cd2c6445c2856dcf3d6d#rd)
 *   [Python 什么情况下会生成 pyc 文件？](https://mp.weixin.qq.com/s/ApaOnC2Kvwn2ffUNrzV-wg)
 *   [一日一技：立竿见影地把你的 Python 代码提速7倍](https://mp.weixin.qq.com/s/Nuq2q_BUwUsq-yya5v88Jg)
+*   [Python 中更优雅的日志记录方案](https://mp.weixin.qq.com/s/38LX01_cWcvxdJ-XjCEE5g)             
+*   [如何使用Python读写Kafka？](https://mp.weixin.qq.com/s/UFtpOoKbt8lP0TYxeV2gZw)   
 *   []()
 *   []()
 *   []()
