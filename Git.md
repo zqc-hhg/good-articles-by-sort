@@ -37,6 +37,7 @@
 *   [GitHub Developer | GitHub Developer Guide](https://developer.github.com/)
 *   [一文带你彻底学会 Git Hooks 配置](https://mp.weixin.qq.com/s?__biz=MzI5MjgxMDU0MA==&mid=2247483793&idx=1&sn=e49d385cc87cdaa3b3253fab9ae22f8a&chksm=ec7afbd2db0d72c49a4451f7ea3eb9ba958d960a6880bc9c55efb11a4cd85d9186bccfa7e8e4&token=1214989132&lang=zh_CN&utm_source=tuicool&utm_medium=referral)
 *    [Git内部原理解析 - DockOne.io](http://dockone.io/article/10464?utm_source=tuicool&utm_medium=referral)         
+*   [为什么你应该使用 Git 进行版本控制 - 面向信仰编程](https://draveness.me/whys-the-design-git-the-best/)             
 *   []()
 *   []()
 *   []()
