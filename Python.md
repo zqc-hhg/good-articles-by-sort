@@ -83,6 +83,7 @@
 *   [一日一技：立竿见影地把你的 Python 代码提速7倍](https://mp.weixin.qq.com/s/Nuq2q_BUwUsq-yya5v88Jg)
 *   [Python 中更优雅的日志记录方案](https://mp.weixin.qq.com/s/38LX01_cWcvxdJ-XjCEE5g)             
 *   [如何使用Python读写Kafka？](https://mp.weixin.qq.com/s/UFtpOoKbt8lP0TYxeV2gZw)   
+*   [Python fileinput 模块：命令行工具利器 | 三点水](https://lotabout.me/2020/python-fileinput-module/)        
 *   []()
 *   []()
 *   []()
