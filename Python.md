@@ -84,6 +84,7 @@
 *   [Python 中更优雅的日志记录方案](https://mp.weixin.qq.com/s/38LX01_cWcvxdJ-XjCEE5g)             
 *   [如何使用Python读写Kafka？](https://mp.weixin.qq.com/s/UFtpOoKbt8lP0TYxeV2gZw)   
 *   [Python fileinput 模块：命令行工具利器 | 三点水](https://lotabout.me/2020/python-fileinput-module/)        
+*   [制作Python版Jar包](https://mp.weixin.qq.com/s/FaXlzVhcgwZ-W4yp4nkStA?utm_source=tuicool&utm_medium=referral)             
 *   []()
 *   []()
 *   []()

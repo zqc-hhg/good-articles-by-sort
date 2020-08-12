@@ -210,6 +210,12 @@
 *   [超好用的自带火焰图的 Java 性能分析工具 Async-profiler 了解一下 - 掘金](https://juejin.im/post/6844904016443342861)             
 *   [profiler — Arthas 3.3.7 文档](https://alibaba.github.io/arthas/profiler.html)             
 *   [java - When would you use the Builder Pattern? - Stack Overflow](https://stackoverflow.com/questions/328496/when-would-you-use-the-builder-pattern/1953567#1953567)             
+*   [java - What's the difference between Thread start() and Runnable run() - Stack Overflow](https://stackoverflow.com/questions/8579657/whats-the-difference-between-thread-start-and-runnable-run)             
+*   [java - Loop doesn't see value changed by other thread without a print statement - Stack Overflow](https://stackoverflow.com/questions/25425130/loop-doesnt-see-value-changed-by-other-thread-without-a-print-statement?noredirect=1&lq=1)           
+*   [Class.forName 和 ClassLoader 到底有啥区别？](https://mp.weixin.qq.com/s/5ZQyFS8RYNEdceY7TS45-Q)          
+根据运行结果得出Class.forName加载类时将类进了初始化，而ClassLoader的loadClass并没有对类进行初始化，只是把类加载到了虚拟机中。                           
+*   [Spring嵌套验证-@Validated和@Valid区别](https://mp.weixin.qq.com/s/lPvFnpqpRPRT5DyOYYidyw)             
+*   [JVM的逃逸分析](https://segmentfault.com/a/1190000023475016?utm_source=tuicool&utm_medium=referral)     
 *   []()
 *   []()
 *   []()

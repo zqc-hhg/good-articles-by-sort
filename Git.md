@@ -44,6 +44,8 @@
 *   [**这才是真正的Git——Git内部原理揭秘！ - 知乎**](https://zhuanlan.zhihu.com/p/96631135)             
 *   [珍藏多年的 Git 问题和操作清单](https://mp.weixin.qq.com/s?__biz=MzIwMDY0Nzk2Mw==&mid=2650320580&idx=1&sn=1a1f258eca7da3457aa9b79dde91d868&utm_source=tuicool&utm_medium=referral)             
 *   [详解 Git 大文件存储（Git LFS） - 知乎](https://zhuanlan.zhihu.com/p/146683392)             
+*   [如何克隆一个大 Git 项目 | 须臾之学](https://blog.xizhibei.me/2020/02/10/how-to-clone-a-large-git-repo/)             
+*   [高频 Git 命令集 - 掘金](https://juejin.im/post/6844904015654813710)     
 *   []()
 *   []()
 *   []()
