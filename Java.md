@@ -216,7 +216,8 @@
 根据运行结果得出Class.forName加载类时将类进了初始化，而ClassLoader的loadClass并没有对类进行初始化，只是把类加载到了虚拟机中。                           
 *   [Spring嵌套验证-@Validated和@Valid区别](https://mp.weixin.qq.com/s/lPvFnpqpRPRT5DyOYYidyw)             
 *   [JVM的逃逸分析](https://segmentfault.com/a/1190000023475016?utm_source=tuicool&utm_medium=referral)     
-*   []()
+*   [Java 中 volatile 关键字的最全总结，赶快给自己查缺补漏吧！](https://mp.weixin.qq.com/s/neDCzdVoXiger9D1hXBcag)
+*   [解决org.apache.ibatis.binding.BindingException: Invalid bound statement (not found)问题_写代码的蜗牛-CSDN博客_org.apache.ibatis.binding.bindingexception: invali](https://blog.csdn.net/sundacheng1989/article/details/81630370)     
 *   []()
 *   []()
 *   []()
